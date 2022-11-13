@@ -75,13 +75,13 @@ export default Vue.extend({
 .intro {
 
 }
-.project-card {
-  @apply col-span-3;
+.dsa-card {
+  @apply col-span-12;
 }
 .latest-card {
-  @apply col-span-3;
+  @apply col-span-12;
 }
-.dsa-card {
-  @apply col-span-3;
+.project-card {
+  @apply col-span-12;
 }
 </style>
