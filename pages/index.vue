@@ -1,7 +1,7 @@
 <template>
 <div class="index-page">
   <header class="intro">
-    intro here
+    Skill Tracker
   </header>
 
   <div class="dsa">
